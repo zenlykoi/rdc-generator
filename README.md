@@ -1,6 +1,11 @@
 # rdc-generator
 This package can be use to generate Remote Desktop Connection Manager file !
 
+# install
+```
+npm i rdc-generator
+```
+
 # code example
 ```javascript
 const rdcGenerator = require('rdc-generator');
